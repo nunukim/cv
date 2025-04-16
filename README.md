@@ -1,8 +1,8 @@
 # 基本情報
 
-名前: 鈴木亮太（ぬぬき）
-所属: LAPRAS株式会社
-LAPRAS: https://lapras.com/public/nunukim
+* 名前: 鈴木亮太（ぬぬき）
+* 所属: LAPRAS株式会社
+* LAPRAS: https://lapras.com/public/nunukim
 
 # 職務要約
 
@@ -16,7 +16,7 @@ LAPRAS: https://lapras.com/public/nunukim
 
 ## LAPRAS株式会社
 **役職**: プロダクトマネージャー、R&D責任者
-**期間**: 2019年7月 - 現在  
+**期間**: 2019年7月 - 現在
 **職種**: プロダクトマネージャー
 
 2019年7月からは、LAPRAS のプロダクトマネージャーとして、各種調査分析、戦略策定、仕様策定、品質管理、プロジェクト管理、リスク管理などの業務を行っている。
